@@ -1,0 +1,8 @@
+ipykernel
+numpy
+scipy
+matplotlib
+polars
+bokeh
+plotly
+tqdm
