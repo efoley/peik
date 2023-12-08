@@ -1,6 +1,6 @@
 
 ```
-mamba create -n pymir
+mamba create -n peik python=3.12
 ```
 
 ```
